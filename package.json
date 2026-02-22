@@ -1,0 +1,12 @@
+{
+  "name": "trafficwatch",
+  "version": "2.0.0",
+  "description": "Real-time traffic monitor using TomTom API — no browser needed",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
